@@ -1,4 +1,4 @@
-🍷 #Red Wine Quality Prediction
+##🍷 Red Wine Quality Prediction
 This project explores the prediction of red wine quality using machine learning techniques. Both regression and classification approaches are implemented to evaluate the effectiveness of different models.
 
 #🔍Objective
